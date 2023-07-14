@@ -8,7 +8,7 @@ subtitle: FW 891
 author: Charlie Belinsky<br>belinsky@msu.edu
 institute: <http://github.com/qfcatmsu/githubtest>
 footer: " "  
-date: 2/3/76
+date: 2/3/76 
 date-format: "D MMMM YYYY"  # Can change the date formatting here
 
 format:
