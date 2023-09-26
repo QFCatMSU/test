@@ -1,7 +1,7 @@
 d{
   {#kjlhlo
     a <- 2;
-    b <- 3
+    b <- 3 # stuff
     
     adder = function(a, b) dsfasd
     {safasdhstrheyrteretyjeytj
