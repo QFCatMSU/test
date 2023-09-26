@@ -1,7 +1,7 @@
 {
   a <- 2;
   b <- 3;
-  c = a+b+b;
+  c = a+b+b; #blah
 
   adder = function(a, b) 
     {
