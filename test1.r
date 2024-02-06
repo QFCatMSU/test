@@ -15,4 +15,4 @@
 ## To use: Addins -> Style active file
 ## Change 
 ## Or run this command: styler:::style_active_file()
-## add stuff 
+## add more stuff 
