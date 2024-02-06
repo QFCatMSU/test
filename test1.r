@@ -13,6 +13,6 @@
 
 
 ## To use: Addins -> Style active file
-## Change 
+## Change this
 ## Or run this command: styler:::style_active_file()
-## add stuff stuff
+## add stuff 
