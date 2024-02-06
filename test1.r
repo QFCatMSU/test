@@ -1,6 +1,6 @@
 {
   a <- 7;
-  b <- 3;
+  b <- 12;
   c = a+b+b; #blah
 
   adder = function(a, b) 
@@ -10,7 +10,7 @@
 
   cat(adder(a,b));
 }
-ds
+
 
 ## To use: Addins -> Style active file
 ## Change here
