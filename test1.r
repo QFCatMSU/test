@@ -1,7 +1,7 @@
 {
   a <- 12;
-  b <- 3;
-  c = a*b+b; 
+  b <- 9;
+  c = a*b+a; 
 
   adder = function(a, b) 
     {
