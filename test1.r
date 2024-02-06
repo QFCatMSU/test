@@ -5,7 +5,7 @@
 
   adder = function(a, b) 
     {
-    return(a +b)
+    return(a *b)
   }
 
   cat(adder(a,b));
@@ -13,6 +13,6 @@
 
 
 ## To use: Addins -> Style active file
-## Change here
+## Change 
 ## Or run this command: styler:::style_active_file()
 ## add stuff stuff
