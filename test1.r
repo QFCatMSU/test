@@ -1,12 +1,12 @@
 {
   a <- 7;
   b <- 3;
-  c = a+b+b; #blah
+  c = a*b+b; #blah
 
   adder = function(a, b) 
     {
     return(a +b)
-  }sadfdsafsdafsadf
+  }
 
   cat(adder(a,b));
 }
