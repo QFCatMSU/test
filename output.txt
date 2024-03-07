@@ -1,0 +1,6 @@
+On the 11th day the date was Apr6 and the precipitation was 1.13 
+ The difference in precipitation between the 3rd and 4th day is 1.07 
+ Every 3rd days precipitation was 0.01 1.11 0.005 0.3 0 
+ The precipitation for days 4, 9, and 12 are 1.11 0.45 0.004 
+ The total precipitation for the first 10 days is 2.53 
+Samantha Truckly, $, α, Μ
